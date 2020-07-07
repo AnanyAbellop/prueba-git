@@ -1,6 +1,9 @@
 Esto es un texto de prueba, escrito en espa'ol pero con el teclado en ingl'es, a ver qu'e tal se comporta con el tema de las tildes y la e'e.
+
 Y tambi'en los signos de puntuaci'on, exclamaci'on e interrogaci'on. 
+
 +O es que podr'iamos entender en donde empieza y termina una pregunta, sin la ayuda de estos signos_
+
 Aqu'i una lista de refranes en cuyos t'itulos hay tildes, o palabras susceptibles de errores ortogr'aficos:
 - M'as sabe el diavlo por biejo que por diablo, porque no todos los diavlos yegaron a viejos
 - chibo que se devuelbe se rompe el cuello, porque hab'ia salido corriendo de lo que se lo ivan a comer
