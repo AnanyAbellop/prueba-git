@@ -10,4 +10,4 @@ Aqu'i una lista de refranes en cuyos t'itulos hay tildes, o palabras susceptible
 - Dime con qui'en andas y te dir'e qui'en eres, porque obviamente eres el que est'a al lado de aqu'el con el que andas
 - A cavayo regalado no se le mira el colmiyo, porque se le quiere para cavalgar y no para salir en fotos
 - Al que madruga Dios lo ayuda, porque lla a ezo de lajocho la cola de jente pidiendo favores es muy larga 
-- No ay mal que por vien no benga, o al menos eso pienzan aqueyos afines a la corriente filos'ofica estoicista
+- No hay mal que por bien no venga, o al menos eso piensan aquellos afines a la corriente filosófica estoicista.
