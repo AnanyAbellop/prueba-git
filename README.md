@@ -1,4 +1,4 @@
-Esto es un texto de prueba, escrito en espa'ol pero con el teclado en ingl'es, a ver qu'e tal se comporta con el tema de las tildes y la e'e.
+Esto es un texto de prueba, escrito en español pero con el teclado en ingles, a ver que tal se comporta con el tema de las tildes y la eñe.
 
 Y tambi'en los signos de puntuaci'on, exclamaci'on e interrogaci'on. 
 
