@@ -11,3 +11,4 @@ Aqu'i una lista de refranes en cuyos t'itulos hay tildes, o palabras susceptible
 - A cavayo regalado no se le mira el colmiyo, porque se le quiere para cavalgar y no para salir en fotos
 - Al que madruga Dios lo ayuda, porque lla a ezo de lajocho la cola de jente pidiendo favores es muy larga 
 - No ay mal que por vien no benga, o al menos eso pienzan aqueyos afines a la corriente filos'ofica estoicista
+- Humano sin dinero debe morir 
